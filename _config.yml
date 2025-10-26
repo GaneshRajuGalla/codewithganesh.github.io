@@ -1,0 +1,17 @@
+title: Code With Ganesh
+description: Software engineer sharing coding tutorials, tech insights, and development tips
+url: "https://codewithganesh.github.io"
+baseurl: ""
+
+author:
+  name: Ganesh Raju Galla
+  email: ganeshrajugalla@gmail.com
+  twitter: codewithganesh
+  github: GaneshRajuGalla
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme: minima

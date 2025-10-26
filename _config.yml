@@ -15,3 +15,11 @@ plugins:
   - jekyll-seo-tag
 
 theme: minima
+
+# Permalinks
+permalink: /:year/:month/:day/:title.html
+
+# Build settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
